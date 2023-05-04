@@ -1,0 +1,300 @@
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\prueb\OneDrive\Escritorio\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T142146Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230405T230726Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\Obligatorio revised-20230406T020942Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFi\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alumnoFi\Desktop\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alumnoFi\Desktop\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFi\Desktop\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFi\Desktop\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alumnoFi\Desktop\Nueva carpeta (2)\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\Administrador.usuario-PC\Desktop\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Respaldo\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230425T122501Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230425T221441Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Obligatorio revised-20230426T171029Z-001\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230502T231042Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\prueb\OneDrive\Escritorio\Jona\Obligatorio revised\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder\drive-download-20230503T011830Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\New folder (2)\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Trabajando\drive-download-20230503T133028Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T000002Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\drive-download-20230504T001530Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Definitivo\drive-download-20230504T005909Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Definitivo descargado\Definitivo 2\drive-download-20230504T011520Z-001\Dominio\obj\Debug\net7.0\ref\Dominio.dll
