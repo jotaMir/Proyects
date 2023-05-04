@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obligatorio</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="js/libreria.js"></script>
+  <script src="js/Importador.js"></script>
+  <script src="js/Empresa.js"></script>
+  <script src="js/viajesEmpresa.js"></script>
+  <script src="js/solicitudCargaImportador.js"></script>
+  <script src="js/codigo.js"></script>
+</head>
+
+<body>
+  
+  <div id="contenedor">
+  
+    <div id="cabezal" class="clearfix">      
+      <h1 style="color: white" id="nombreUsuarioLogueado"></h1>
+      <p id="pfotoPerfil">
+  
+      <ul id="navPrincipal">
+  
+        <li id="btnCrearNuevoViajeEmpresa" class="btnSeccion btnEmpresa">
+          <a>CREAR NUEVO VIAJE</a>
+        </li>
+        <li id="btnAsignarSolicitudParaEmpresa" class="btnSeccion btnEmpresa">
+          <a>ASIGNAR SOLICITUD</a>
+        </li>
+        <li id="btnRolloverParaEmpresa" class="btnSeccion btnEmpresa">
+          <a>ROLLOVER DE CARGA</a>
+        </li>
+        <li id="btnManifiestoDeCargaParaEmpresa" class="btnSeccion btnEmpresa">
+          <a>MANIFIESTO DE CARGA</a>
+        </li>
+        <li id="btnHabilitarImportadoresParaEmpresa" class="btnSeccion btnEmpresa">
+          <a>HABILITAR IMPORTADORES</a>
+        </li>
+        <li id="btnCargaPeligrosaParaEmpresa" class="btnSeccion btnEmpresa">
+          <a>LISTAR CARGA PELIGROSA</a>
+        </li>
+        <li id="btnCerrarSesionPlataformaEmpresa" class="btnSeccion btnEmpresa">
+          <a>CERRAR SESIÓN</a>
+        </li>
+        <li id="btnCrearNuevaSolicitudImportador" class="btnSeccion btnImportador">
+          <a>CREAR NUEVA SOLICITUD</a>
+        </li>
+        <li id="btnConsultaSolicitudesImportador" class="btnSeccion btnImportador">
+          <a>CONSULTA DE SOLICITUDES</a>
+        </li>
+        <li id="btnVisualizarInformacionImportador" class="btnSeccion btnImportador">
+          <a>VER INFO ESTADISTICA</a>
+        </li>
+        <li id="btnCerrarSesionImportador" class="btnSeccion btnImportador">
+          <a>CERRAR SESIÓN</a>
+        </li>
+      </ul>
+  
+    </div>
+
+    <!--ACA TERMINA EL CABEZAL QUE CONTIENE LOS MENU-->
+
+    <div id="contenido">
+
+      <!--Pantalla de inicio-->
+      <div id="seccionPantallaInicio" class="seccion user">
+        <h2 align="right">Bienvenidos! </h2>
+        <ul id="navPrincipal">
+          <li>
+            <input type="button" id="btnRegistroImportador" value="REGISTRO IMPORTADORES" class="btnInicio user">
+          </li>
+          <li>
+            <input type="button" id="btnLogin" value="INICIAR SESION" class="btnInicio user">
+          </li>
+        </ul>
+
+    </div>
+
+      <!--Registro importadores-->
+
+      <div id="seccionRegistroImportador" class="clearfix seccion">
+
+        <fieldset>
+
+          <h3>Registro para Importadores</h3><br>
+
+          <label for="txtNombreRegistroImportador"> Nombre:</label><br><br>
+          <input type="text" id="txtNombreRegistroImportador" placeholder="Nombre de importador"><br><br>
+
+          <label for="txtRegistroUsuarioImportador"> Nombre de usuario:</label><br><br>
+          <input type="text" id="txtRegistroUsuarioImportador" placeholder="Nombre de usuario"><br><br>
+
+          <label for="txtContraseniaaRegistroImportador"> Contraseña: *</label><br><br>
+          <input type="password" id="txtContraseniaaRegistroImportador" placeholder="Contraseña"><br>
+          <p>(Debe tener al menos 5 caracteres, una mayúscula, una minúscula y un número)</p><br>
+
+          <label for="fotoPerfilImportadorRegistro">Seleccione su foto de perfil:</label><br><br>
+          <input type="file" name="" id="fotoPerfilImportadorRegistro"><br><br>
+
+
+          <input type="button" size="10" id="btnRegistrarImportador" value="REGISTRAR"><br><br>
+          <input type="button" size="10" id="btnAtrasRegistro" value="ATRAS"> <br><br>
+
+        </fieldset>
+      </div>
+
+
+      <!--Iniciar Sesion-->
+
+      <div id="seccionInicioSesion" class="clearfix seccion">
+
+        <fieldset>
+          <h3>Iniciar Sesión</h3>
+
+          <label for="txtIngresoUsuario">Ingrese su nombre de usuario:</label><br><br>
+          <input type="text" id="txtIngresoUsuario" placeholder="Nombre de usuario"><br><br>
+
+          <label for="txtIngresoContrasenia">Ingrese su contraseña:</label><br><br>
+          <input type="password" id="txtIngresoContrasenia" placeholder="Contraseña"><br><br>
+
+          <input type="button" size="10" id="btnIngresarUsuario" value="INGRESAR"> <br><br>
+
+          <input type="button" size="10" id="btnAtrasLogin" value="ATRAS"> <br><br>
+
+        </fieldset>
+
+      </div>
+
+      <div id="seccionCrearNuevaCargaImportador" class="seccion">
+
+        <section class="" align="center">
+
+          <fieldset>
+
+            <h3>CREAR NUEVA SOLICITUD DE CARGA</h3>
+            <label for="slcNuevaCargaImportador">Seleccione el tipo de mercadería:</label><br>
+            <select id="slcNuevaCargaImportador">
+              <option value="carga_general">General</option>
+              <option value="refrigerado">Refrigerado</option>
+              <option value="carga_peligrosa">Carga Peligrosa</option>
+            </select> <br><br>
+
+            <label for="txtdescripcionMercaderiaImportador">Describa su mercadería: </label><br>
+            <textarea id="txtdescripcionMercaderiaImportador" placeholder="Ej. Calzado y accesorios"  rows="5" cols="33"> </textarea> <br><br>
+
+            <label for="slcPuertoOrigenImportador">Seleccione el puerto de origen:</label><br>
+            <select id="slcPuertoOrigenImportador">
+              <option value="Brasil - Puerto de Santos"> Brasil - Puerto de Santos </option>
+                  <option value="Argentina - Puerto de Buenos Aires"> Argentina - Puerto de Buenos Aires </option>
+                  <option value=" Mexico - Puerto de Manzanillo"> Mexico - Puerto de Manzanillo </option>
+                  <option value="Panama - Puerto de Balboa "> Panama - Puerto de Balboa </option>
+                  <option value="Peru - Puerto El Callao ">Peru - Puerto El Callao </option>
+                  <option value="Ecuador - Puerto de Guayaquil ">Ecuador - Puerto de Guayaquil </option>
+                  <option value="Jamaica - Puerto de Kingston ">Jamaica - Puerto de Kingston </option>
+            </select> <br><br>
+
+            <label for="nmbcontenedoresNuevaCargaImportador">Cantidad de contenedores: </label><br>
+            <input type="number" name="" id="nmbcontenedoresNuevaCargaImportador"><br><br>
+
+            <select name="" id="slcIdEmpresaParaImportador">
+              <option value="1"> Katoen SA </option>
+              <option value="2"> Klassen srl </option>
+              <option value="3"> Perez SA </option>
+              <option value="4"> Miranda srl </option>
+            </select> <br><br>
+
+            <input type="button" size="10" id="btnCrearCargaImportador" value="CREAR CARGA">
+
+          </fieldset>
+        </section>
+        <hr>
+      </div>
+
+
+      <!--Consulta Solicitud Importador-->
+
+      <div id="seccionConsultaSolicitudImportador" class="seccion">
+        <section class="formConsultaSolicitudImportador" align="center">
+
+          <fieldset>
+
+            <h3>CONSULTA SOLICITUDES PENDIENTES</h3>
+
+            <label for="txtConsultaSolicitudImportadorDescripcion">Descripción de la mercadería: </label><br>
+            <input type="text" id="txtConsultaSolicitudImportadorDescripcion"> <br><br>
+
+            <input type="button" size="10" id="btnConsultaSolicitudesPendientes" value="Buscar Solicitud"><br><br>
+
+            <p>Para volver a mostrar todo el listado, click nuevamente en CONSULTA DE SOLICITUDES</p>
+
+            <table border="1">
+              <thead>
+                  <tr>
+                      <th>Tipo de Mercaderia</th>
+                      <th>Descripción de Mercaderia</th>
+                      <th>Puerto</th>
+                      <th>Cantidad de Contenedores</th>
+                      <th>Estado</th>   
+                      <th></th>                    
+                  </tr>
+              </thead>
+
+              <tbody id="tblSolicitudesPendientes">
+              </tbody>
+            </table> <br> <br>
+            <p id="pCancelarSolicitudImportador"></p><br> <br>
+          </fieldset>
+        </section>
+        <hr>
+      </div>
+
+      <div id="seccionInformacionEstadisticaImportador" class="seccion">
+
+        <section>
+
+          <fieldset>
+            <h3>INFORMACIÓN ESTADÍSTICA</h3>
+
+            <label for="fchinformacionEstadisticaImportadorDesde">Desde:</label>
+            <input type="date" name="" id="fchinformacionEstadisticaImportadorDesde">
+            <label for="fchinformacionEstadisticaImportadorHasta">Hasta:</label>
+            <input type="date" name="" id="fchinformacionEstadisticaImportadorHasta"><br><br>
+
+            <input type="button" id="btnInformacionEstadisticaImportador" value="MOSTRAR" align="center"><br><br>
+
+            <h3>Cancelaciones</h3>
+            <table border="1">
+              <thead>
+                  <tr>
+                      <th>Tipo de Mercaderia</th>
+                      <th>Descripción de Mercaderia</th>
+                      <th>Puerto</th>
+                      <th>Cantidad de Contenedores</th>
+                      <th>Fecha de cancelada</th>                 
+                  </tr>
+                </thead>
+              <tbody id="tblInformacionEstadisticaImportadorCancelaciones">
+              </tbody>
+            </table> <br><br>
+
+            <h3>Próximas llegadas</h3>
+            <table border="1">
+            <thead>
+              <tr>
+                  <th>Tipo de Mercaderia</th>
+                  <th>Descripción de Mercaderia</th>
+                  <th>Puerto</th>
+                  <th>Cantidad de Contenedores</th>
+                  <th>Fecha de llegada</th>
+                  <th>Nombre de la Empresa</th>               
+              </tr>
+            </thead>
+            <tbody id="tblInformacionEstadisticaImportadorLlegadas">
+            </tbody>
+          </table> <br><br>
+
+            <h3>Porcentaje de participación</h3>
+            <table border="1">
+              <thead>
+                <tr>
+                    <th>Empresa</th>
+                    <th>% de participación</th>                
+                </tr>
+              </thead>
+              <tbody id="tblPorcentajeParticipacion">
+              </tbody>
+            </table> <br><br>
+            <p id="pMensajeInformaciónEstadístia"></p>
+            <br><br>
+
+          </fieldset>
+        </section>
+      </div>
+
+      <!--Aca terminan los formularios de importador-->
+
+      <!--Crear nuevo Viaje Empresa-->
+
+      <div id="seccionCrearNuevoViajeEmpresa" class="seccion">
+        <section align="center">
+          <fieldset>
+
+            <h3>CREAR NUEVO VIAJE</h3>
+            <h3>PARA CREAR UN NUEVO VIAJE COMPLETE EL FORMULARIO A CONTINUACION</h3>
+            <label for="txtNombreBuque">NOMBRE DEL BUQUE</label><br>
+            
+            <input type="text" id="txtNombreBuque"> <br><br>
+
+            <label for="nmbCantidadContenedores">CANTIDAD MÁXIMA DE CONTENEDORES</label><br>
+            <input type="number" id="nmbCantidadContenedores"> <br><br>
+
+            <label for="dateLlegadaBuque">SELECCIONE FECHA DE LLEGADA</label><br>
+            <input type="date" id="dateLlegadaBuque"> <br><br>
+
+
+            <input type="button" id="btnCrearViajeEmpresa" value="CREAR VIAJE"><br><br>         
+
+          </fieldset>
+        </section>
+        <hr>
+      </div>
+
+      <!--Asignar Solicitud Empresa-->
+
+      <div id="seccionAsignarSolicitudEmpresa" class="seccion">
+
+        <section align="center">
+
+          <fieldset>
+
+            <h3>ASIGNAR SOLICITUD</h3>
+            <h3>PARA ASIGNAR UNA SOLICITUD, SELECCIONE EL VIAJE A LA SOLICITUD QUE DESEE ASIGNAR</h3>
+
+
+            <select name="" id="slcAsignarViajeEmpresa">
+
+            </select> <br><br><br><br>
+
+            <table border="1">
+              <thead>
+                  <tr>
+                      <th>Tipo de Mercaderia</th>
+                      <th>Descripción de Mercaderia</th>
+                      <th>Puerto</th>
+                      <th>Cantidad de Contenedores</th>
+                      <th>Importador</th>
+                      <th>Estado</th>   
+                      <th>Pulsar</th>
+
+                                     
+                  </tr>
+              </thead>
+              <tbody id="tblSolicitudesDeCarga">
+              </tbody>
+            </table> <br> <br>
+
+            <p id="pMessageAsignarSolicitudEmpresa"> </p>
+          </fieldset>
+
+        </section>
+
+      </div>
+
+      <hr>
+
+
+      <!--Rollover de carga empresa-->
+
+      <div id="seccionRolloverEmpresa" class="seccion">
+
+        <section align="center">
+
+          <fieldset>
+            <h3>REASIGNAR SOLICITUD</h3>
+            <h3>INSTRUCCIONES: Para reasignar una solicitud, selecciones el viaje y la solicitud que desee. Tenga en
+              cuenta que todos los contendores incluidos en la solicictud original seran cambiados de viaje. NO SE
+              PUEDEN REALIZAR CAMBIOS PARCIALES </h3> <br> <br>
+
+
+
+            <select name="" id="slcidViajesParaListarRollover">
+              
+            </select> <br><br>
+
+            <input type="button" id="btnRolloverEmpresa" value="LISTAR"><br><br>
+
+            <table border="1">
+              <thead>
+                  <tr>
+                    <th>ORIGEN</th>
+                    <th>CONTENEDORES</th>
+                    <th>IMPORTADOR</th>
+                    <th>DESCRIPCIÓN</th>
+                    <th>TIPO DE MERCADERÍA</th>
+                    <th>---</th>
+           
+                  </tr>
+              </thead>
+              <tbody id="tblRollearSolicitudDeCarga">
+              </tbody>
+            </table> <br> <br>
+
+            <label for="slcidViajesParaRollover"> SELECCIONE EL VIAJE AL CUAL DESEA REASIGNAR LA SOLICITUD DE CARGA</label>
+            <select name="" id="slcidViajesParaRollover">
+              
+            </select> <br><br>
+
+            <br><br>
+
+          </fieldset>
+        </section>
+
+
+      </div>
+
+      <!--Manifiesto de carga-->
+
+      <div id="seccionManifiestoEmpresa" class="seccion">
+
+        <section align="center">
+
+          <fieldset>
+
+            <h3>MANIFIESTO DE CARGA </h3>
+            <label for="slcManifiestoCargaEmpresa"> SELECCIONE EL VIAJE QUE DESEA LISTAR</label><br><br>
+            
+            <select name="" id="slcListarManifiestoViajeEmpresa">
+              
+            </select> <br><br>
+
+            <table border="1">
+              <thead>
+                  <tr>
+                      <th>ORIGEN</th>
+                      <th>CONTENEDORES</th>
+                      <th>IMPORTADOR</th>
+                      <th>DESCRIPCIÓN</th>
+                      <th>TIPO DE MERCADERÍA</th>                                                       
+                  </tr>
+              </thead>
+              <tbody id="listarManifiestodeCargaEmpresa">
+              </tbody>
+            </table> <br> <br>
+
+
+            <input type="button" id="btnListarManifiestoEmpresa" value="LISTAR"><br><br>
+
+            <br><br>
+
+            <p id="pMessageListarViajeEmpresa"></p>
+
+          </fieldset>
+        </section>
+        <hr>
+
+      </div>
+
+      <div id="habilitarImportadoresEmpresa" class="seccion">
+
+        <section align="center">
+
+          <fieldset>
+
+            <h3>HABILITAR IMPORTADORES</h3>
+            <h3>PARA HABILITAR AL IMPORTADOR DEBE IGNORAR SUS SOLICITUDES CANCELADAS <br> <b>Para que un Imporador pueda esta habilitado puede tener como máximo dos solicitudes canceladas</b> </h3>
+
+            <table border="1">
+              <thead>
+                  <tr>
+                      <th>NOMBRE IMPORTADOR</th>
+                      <th>DESCRIPCIÓN</th>
+                      <th>TIPO DE MERCADERÍA</th>  
+                      <th>ESTADO</th>  
+                      <th>PULSAR PARA IGNORAR</th>                                                        
+                  </tr>
+              </thead>
+              <tbody id="tblListarImportadoresDeshabilitados">
+              </tbody>
+            </table> <br> <br>
+            
+          </fieldset>
+        </section>
+        <hr>
+
+      </div>
+
+
+      <!--Carga Peligrosa Empresa-->
+
+      <div id="seccionCargaPeligrosaEmpresa" class="seccion">
+
+        <section align="center">
+
+          <fieldset>
+
+            <h3>LISTAR CARGA PELIGROSA</h3>
+
+            <label for="slcCargaPeligrosaEmpresa"> SELECCIONE EL VIAJE QUE DESEA LISTAR</label><br><br>
+            <select name="" id="slcListarViajes">
+              
+            </select> <br><br>
+            
+            <input type="button" id="btnListarCargaPeligrosaEmpresa" value="LISTAR CARGA PELIGROSA"><br><br>
+
+            <table border="1">
+              <thead>
+                  <tr>
+                      <th>ORIGEN</th>
+                      <th>CONTENEDORES</th>
+                      <th>IMPORTADOR</th>
+                      <th>DESCRIPCIÓN</th>
+                      <th>TIPO DE MERCADERÍA</th>                                                       
+                  </tr>
+              </thead>
+              <tbody id="slcListarCargaPeligrosaEmpresa">
+              </tbody>
+            </table> <br> <br>
+            <br><br>
+          </fieldset>
+        </section>
+
+      </div>
+    </div><!-- FIN CONTENIDO -->
+
+    <div id="pie">
+      <a href="https://www.ort.edu.uy">Perez-Miranda 2022</a>
+    </div><!-- FIN PIE -->
+
+  </div><!-- FIN CONTENEDOR -->
+  </div>
+
+</body>
+
+</html>
