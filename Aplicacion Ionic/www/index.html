@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <link rel="icon" href="data:," />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Título</title>
+
+    <!--ionic-->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"></script>
+    <script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css" />
+
+    <!--leafletjs-->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+      integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+      crossorigin=""
+    ></script>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="Style/style.css" />
+  </head>
+
+  <body>
+    <ion-app>
+      <ion-router id="ruteo">
+        <ion-route url="/login" component="page-login"></ion-route>
+        <ion-route url="/registrar" component="page-registro"></ion-route>
+        <ion-route url="/inicio" component="page-inicio"></ion-route>
+        <ion-route url="/agregarGasto" component="page-agregarGasto"></ion-route>
+        <ion-route url="/agregarIngreso" component="page-agregarIngreso"></ion-route>
+        <ion-route url="/listarMovimientos" component="page-listarMovimientos"></ion-route>
+        <ion-route url="/mapa" component="page-mapa"></ion-route>
+      </ion-router>
+      <ion-nav id="navegador"></ion-nav>
+
+      <ion-menu side="start" menu-id="first" content-id="main" id="menu">
+        <ion-header>
+          <ion-toolbar color="tertiary">
+            <ion-title>WELCOME!</ion-title>
+          </ion-toolbar>
+        </ion-header>
+        <ion-content>
+          <ion-list>
+            <ion-item id="btnMenuLogin" href="/login" onclick="cerrarMenu()">Login</ion-item>
+            <ion-item id="btnMenuRegistrar" href="/registrar" onclick="cerrarMenu()">Registrar</ion-item>
+            <ion-item id="btnMenuAgregarGasto" href="/agregarGasto" onclick="cerrarMenu()">Agregar Gasto</ion-item>
+            <ion-item id="btnAgregarIngreso" href="/agregarIngreso" onclick="cerrarMenu()">Agregar un Ingreso</ion-item>
+            <ion-item id="btnListarMovimientos" href="/listarMovimientos" onclick="cerrarMenu()">Listar Movimientos</ion-item>
+            <ion-item id="btnMenuMapa" href="/mapa" onclick="cerrarMenu()">Mapa de Cajeros</ion-item>
+            <ion-item id="btnMenuCompartirAplicacion" onclick="compartirAplicacion()">Compartir Aplicación</ion-item>
+            <ion-item id="btnMenuCerrarSesion" href="/logout" onclick="cerrarSesion()">Cerrar Sesion</ion-item>
+          </ion-list>
+        </ion-content>
+      </ion-menu>
+      <div id="main"></div>
+
+      <page-login class="ion-page" id="pantalla-login">
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>Login</ion-title>
+          </ion-toolbar>
+        </ion-header>
+        <ion-content>
+          <br /><br />
+          <ion-item>
+            <ion-label position="floating" for="txtLoginUsuario">Email</ion-label> <br>
+            <ion-input placeholder="usuario" id="txtLoginUsuario"> </ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-label position="floating" for="txtLoginPassword">Contraseña</ion-label><br>
+            <ion-input type="password" placeholder="********" id="txtLoginPassword"></ion-input>
+          </ion-item>
+
+          <ion-item>
+            <br />
+            <ion-button id="btnLogin" onclick="loguearUsuario()">LOGIN</ion-button>
+          </ion-item>
+
+          <ion-card-content color="primary" id="pLoginMensajes"> </ion-card-content>
+        </ion-content>
+      </page-login>
+
+      <page-agregarGasto class="ion-page" id="pantalla-agregarGasto">
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>Agregar Gasto</ion-title>
+          </ion-toolbar>
+        </ion-header>
+        <br /><br />
+        <ion-content>
+          <ion-title>Agregar un Gasto</ion-title>
+          <br /><br />
+
+          <fieldset>
+            <ion-item>
+              <ion-label position="floating" for="descripcionGasto">Concepto de Gasto</ion-label>
+              <ion-input placeholder="descripcion del gasto" id="descripcionGasto"></ion-input> <br /><br />
+            </ion-item>
+            <ion-list>
+              <ion-item>
+                <ion-label position="floating" for="selectRubroGasto">Rubro</ion-label>
+                <ion-select placeholder="Selecciona Rubro" id="selectRubroGasto"></ion-select> <br />
+                <br />
+              </ion-item>
+
+              <ion-item>
+                <ion-label position="floating" for="selectMedioPago">Medio de Pago</ion-label>
+                <ion-select placeholder="Selecciona Medio de Pago" id="selectMedioPago">
+                  <ion-select-option value="Efectivo">EFECTIVO</ion-select-option>
+                  <ion-select-option value="Debito">DEBITO</ion-select-option>
+                  <ion-select-option value="Credito">CREDITO</ion-select-option>
+                </ion-select>
+                <br />
+                <br />
+              </ion-item>
+
+              <ion-item>
+                <ion-label position="floating" for="txtTotalGasto">Total Gasto (en Pesos $)</ion-label>
+                <ion-input placeholder="Total" id="txtTotalGasto" type="number"></ion-input> <br /><br />
+              </ion-item>
+
+              <ion-item>
+                <ion-label position="floating" for="dateGasto">Fecha de Gasto</ion-label>
+                <ion-input type="date" placeholder="Seleccione Fecha" id="dateGasto"></ion-input> <br /><br />
+              </ion-item>
+
+              <ion-item>
+                <br />
+                <ion-button id="btnAgregarGasto" onclick="agregarGasto()">AGREGAR GASTO</ion-button>
+              </ion-item>
+            </ion-list>
+          </fieldset>
+
+          <ion-card-content color="primary" id="pGastosMensajes"> </ion-card-content>
+        </ion-content>
+      </page-agregarGasto>
+
+      <page-agregarIngreso class="ion-page" id="pantalla-agregarIngreso">
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>Agregar Ingreso</ion-title>
+          </ion-toolbar>
+        </ion-header>
+        <br /><br />
+        <ion-content>
+          <ion-title>Agregar un Ingreso</ion-title>
+          <br /><br />
+
+          <fieldset>
+            <ion-item>
+              <ion-label position="floating" for="txtDescripcionIngreso">Concepto de Ingreso</ion-label>
+              <ion-input placeholder="descripcion del gasto" id="txtDescripcionIngreso"></ion-input> <br /><br />
+            </ion-item>
+            <ion-list>
+              <ion-item>
+                <ion-label position="floating" for="selectRubroIngreso">Rubros de Ingreso</ion-label>
+                <ion-select placeholder="Selecciona Rubro" id="selectRubroIngreso"> </ion-select> <br />
+                <br />
+              </ion-item>
+
+              <ion-item>
+                <ion-label position="floating" for="selectMedioIngreso">Medio de Ingreso</ion-label>
+                <ion-select placeholder="Selecciona Medio De Ingreso" id="selectMedioIngreso">
+                  <ion-select-option value="Efectivo">EFECTIVO</ion-select-option>
+                  <ion-select-option value="Banco">BANCO</ion-select-option>
+                </ion-select>
+                <br />
+                <br />
+              </ion-item>
+
+              <ion-item>
+                <ion-label position="floating" for="txtTotalIngreso">Total Ingreso (en Pesos $)</ion-label>
+                <ion-input placeholder="Total" id="txtTotalIngreso" type="number"></ion-input> <br /><br />
+              </ion-item>
+
+              <ion-item>
+                <ion-label position="floating" for="dateIngreso">Fecha de ingreso</ion-label>
+                <ion-input type="date" placeholder="Seleccione Fecha" id="dateIngreso"></ion-input> <br /><br />
+              </ion-item>
+
+              <ion-item>
+                <br />
+                <ion-button id="btnAgregarIngreso" onclick="agregarIngreso()">AGREGAR INGRESO</ion-button>
+              </ion-item>
+            </ion-list>
+          </fieldset>
+
+          <ion-card-content color="primary" id="pIngresosMensajes"> </ion-card-content>
+        </ion-content>
+      </page-agregarIngreso>
+
+      <page-registro class="ion-page" id="pantalla-registro">
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>Registro</ion-title>
+          </ion-toolbar> </ion-header
+        ><br /><br />
+        <ion-content>
+          <ion-title>Registro de nuevo usuario </ion-title> <br />
+          <fieldset>
+            <ion-label position="floating" for="txtRegistroUsuario">Usuario</ion-label>
+            <ion-input placeholder="Usuario" id="txtRegistroUsuario"></ion-input>
+
+            <ion-label position="floating" for="txtRegistroContrasenia">Contraseña</ion-label>
+            <ion-input type="password" placeholder="Contraseña" id="txtRegistroContrasenia"></ion-input>
+            <br /><br />
+
+            <ion-label position="floating" for="slcDepartamentos">Seleccione su Departamento</ion-label>
+            <ion-select placeholder="Departamento" id="slcDepartamentos" ok-text="Aceptar" cancel-text="Cancelar"></ion-select>
+
+            <br /><br />
+
+            <ion-label position="floating" for="slcCidudades">Seleccione su Ciudad</ion-label>
+            <ion-select placeholder="Ciudad" id="slcCiudades"></ion-select>
+            <br /><br />
+
+            <ion-button id="btnRegistro">REGISTRAR</ion-button>
+          </fieldset>
+          <br /><br />
+
+          <ion-card-content color="primary" id="pRegistroMensajes"> </ion-card-content>
+        </ion-content>
+      </page-registro>
+
+      <page-listarMovimientos class="ion-page" id="pantalla-movimientos">
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>Listar Movimientos</ion-title>
+          </ion-toolbar>
+        </ion-header>
+
+        <ion-content>
+          <ion-item>
+            <ion-select placeholder="Seleccione el timpo de movimiento" (ionChange)="handleChange($event)" id="slcMovimientos">
+              <ion-select-option value="gastos">Gastos</ion-select-option>
+              <ion-select-option value="ingresos">Ingresos</ion-select-option>
+              <ion-select-option value="todos">Todos</ion-select-option>
+            </ion-select>
+          </ion-item>
+          <ion-card id="total"></ion-card>
+          <ion-list id="cardsMovimiento"> </ion-list>
+
+          <br />
+          <br />
+        </ion-content>
+      </page-listarMovimientos>
+
+      <page-inicio class="ion-page" id="pantalla-inicio">
+        <ion-header>
+          <ion-toolbar color="primary" >
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>
+              Bienvenido a tu app para comenzar a administrar tus finanzas!
+            </ion-title>
+          </ion-toolbar>
+        </ion-header>
+        
+        <ion-content class="ion-padding">
+          <div class="user-info">
+            <h2> Seguimiento de gastos e ingresos y localización de cajeros cercanos.<span id="nombre-usuario"></span></h2>
+          </div>
+        </ion-content>
+      </page-inicio>
+
+      <page-mapa class="ion-page" id="pantalla-mapa">
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-menu-button></ion-menu-button>
+            </ion-buttons>
+            <ion-title>Pantalla de mapa</ion-title>
+          </ion-toolbar>
+        </ion-header>
+        <ion-content>
+          <ion-select placeholder="Seleccione una Distancia para encontrar los cajeros mas cercanos" id="slcDistanciaMapa">
+            <ion-select-option value="500"> Menos de 5 CUADRAS </ion-select-option>
+            <ion-select-option value="1000">Menos de 10 CUADRAS</ion-select-option>
+            <ion-select-option value="3000">Menos de 3 KILOMETROS</ion-select-option>
+            <ion-select-option value="5000">Menos de 5 KILOMETROS</ion-select-option>
+            <ion-select-option value="10000">Menos de 10 KILOMETROS</ion-select-option>
+            <ion-select-option value="50000">Menos de 50 KILOMETROS</ion-select-option>
+            <ion-select-option value="100000000000000000000000000">TODOS</ion-select-option>
+          </ion-select>
+          <div id="map"></div><br>
+          <ion-card>
+            <ion-card-content>
+              Pinche sobre el cajero para información detallada
+            </ion-card-content>
+          </ion-card>
+          
+        </ion-content>
+      </page-mapa>
+    </ion-app>
+    <script src="capacitor.js"></script>
+    <script type="text/javascript" src="js/classes.js"></script>
+    <script type="text/javascript" src="js/miCodigo.js"></script>
+  </body>
+</html>
+
+
